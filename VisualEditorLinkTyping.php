@@ -14,8 +14,10 @@ $wgExtensionCredits['other'][] = array(
   'author' => array('Diffeo'),
   'version' => '0.3.0',
   'url' => 'http://diffeo.com/',
-  'description' => 'Link typing for use with VisualEditor and Semantic MediaWiki',
+  'descriptionmsg' => 'semanticlinks-desc',
 );
+
+$wgMessagesDirs['SemanticLinks'] = __DIR__ . '/i18n';
 
 $wgResourceModules['ext.VELinkTyping'] = array(
   'scripts' => 'modules/VELinkTyping.js',
