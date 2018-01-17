@@ -314,7 +314,7 @@ ve.ui.SMWAnnotationDialog.static.actions = [
     {
         'action': 'insert',
         'label': mw.msg( 've-SMWAnnotationDialog-insert' ),
-        'flags': [ 'constructive' ],
+        'flags': [ 'progressive' ],
         'modes': 'insert'
     },
     {
