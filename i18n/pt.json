@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hamilton Abreu"
+			"Hamilton Abreu",
+			"Athena in Wonderland"
 		]
 	},
-	"semanticlinks-desc": "Introdução de links para utilização com o Editor Visual e o MediaWiki Semântico"
+	"semanticlinks-desc": "Introdução de hiperligações para utilização com o Editor Visual e o MediaWiki Semântico"
 }
